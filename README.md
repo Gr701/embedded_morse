@@ -1,5 +1,5 @@
 # Embedded morse
-The code we were mainly working on is in the `src` directory.
+The code we were mainly working on is in the `src` directory. The entry point is `project_main_notog.c`.
 
 ## Technologies used
 - C language for the embedded programming
