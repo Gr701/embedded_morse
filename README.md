@@ -1,7 +1,7 @@
 # Embedded morse
+The code we were mainly working on is in the `src` directory.
 
 ## Technologies used
-The code we were working on is in the src directory. 
 - C language for the embedded programming
 - UART and i2c for the communication
 - SensorTag from Texas Instruments (MPU sensor utilized in the project)
