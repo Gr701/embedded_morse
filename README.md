@@ -8,7 +8,7 @@
 
 ## Overview
 The project was completed as part of a university course in embedded systems and real-time operating systems. We were posted a challenge to develop a communication device that allows sending messages with hidden interactions using SensorTag. 
-Once finished, our device could recognize different hand movements by acceleration and send different charachters or messages based on that. It was also receiving the morse and playing it with sound. We have added an additional feature of music playing once the mode of operation is switched.
+Once finished, our device could recognize different hand movements by acceleration and send different characters or messages based on that. It was also receiving the Morse and playing it with sound. We have also added a feature of music playing once the mode of operation is switched.
 
 ## Learning outcomes
 - Real-time programming with TI-RTOS
